@@ -1,0 +1,38 @@
+.card {
+  width: 540px;
+}
+
+.card__baked-goods_bottom {
+  align-self: flex-end;
+}
+
+.card__title {
+  margin: 0 0 32px;
+  font-family: "Inter", "Ariel", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.card__list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.card__list-item {
+  display: flex;
+  margin: 16px 0 0;
+  gap: 5px;
+  font-family: "Noto Serif", "Times New Roman", serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.card__list-item:nth-of-type(1) {
+  margin: 0;
+}
+
+.card__list-divider {
+  flex-grow: 1;
+  border-bottom: 1px solid;
+}
