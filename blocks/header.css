@@ -10,12 +10,13 @@
   flex-direction: column;
   box-sizing: border-box;
   padding: 30px 80px 40px;
+  z-index: 1;
 }
 
 .header__title {
   max-width: 729px;
   margin: 183px 0 0;
-  font-family: "Inter", "Ariel", sans-serif;
+  font-family: "Inter", "Arial", sans-serif;
   font-weight: 500;
   font-size: 60px;
   line-height: 72px;
@@ -41,7 +42,7 @@
 
 .header__image {
   position: absolute;
-  z-index: 1;
+  z-index: -1;
   width: 646px;
   height: 568px;
   top: 124px;
@@ -52,7 +53,7 @@
   margin-top: auto;
   display: flex;
   justify-content: space-between;
-  font-family: "Inter", "Ariel", sans-serif;
+  font-family: "Inter", "Arial", sans-serif;
   font-weight: 500;
   color: #6f6f6f;
 }

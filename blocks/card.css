@@ -2,13 +2,9 @@
   width: 540px;
 }
 
-.card__baked-goods_bottom {
-  align-self: flex-end;
-}
-
 .card__title {
   margin: 0 0 32px;
-  font-family: "Inter", "Ariel", sans-serif;
+  font-family: "Inter", "Arial", sans-serif;
   font-weight: bold;
   font-size: 20px;
   line-height: 30px;
