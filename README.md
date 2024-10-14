@@ -14,3 +14,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 ## Plan on improving the project
 
 In the future I would like to implement more animations in my projects that way I can grasp many more ways to bring animations to life.
+
+https://jcanela-g.github.io/se_project_coffeeshop/
